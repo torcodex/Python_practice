@@ -1,0 +1,4 @@
+one = input()
+print(len(one))
+a = input()
+print(len(a)-1)
